@@ -3,3 +3,6 @@ public
 target
 data
 *.png
+.angular
+.vscode
+.editorconfig
